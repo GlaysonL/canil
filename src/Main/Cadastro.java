@@ -8,7 +8,7 @@ public class Cadastro {
 		// TODO Auto-generated method stub
 Cachorro cachorro = new Cachorro();
 
-System.out.println("Digite uma opção:");
+System.out.println("Escolha uma opção:");
 System.out.println("1 - Listar cães cadastrados");
 
 
